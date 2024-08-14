@@ -1,0 +1,9 @@
+{
+    "$schema": "https://json.schemastore.org/github-workflow-template-properties.json",
+    "name": "Continuous Deployment to Staging and Production",
+    "description": "This workflow deploys your app to staging and production environments.",
+    "iconName": "octicon rocket",
+    "categories": [
+        "deployment"
+    ]
+}
